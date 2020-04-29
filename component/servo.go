@@ -1,6 +1,6 @@
 package component
 
-import "unit"
+import "github.com/DanielHaba/goro/unit"
 
 func lerp(i float64, a, b uint32) uint32 {
 	return uint32(float64(b-a)*i) + a

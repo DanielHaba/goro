@@ -2,10 +2,12 @@ package main
 
 import (
 	// "bufio"
-	"component"
 	"fmt"
 	"math/rand"
 	"os"
+
+	"github.com/DanielHaba/goro/component"
+
 	// "os/exec"
 	"time"
 
